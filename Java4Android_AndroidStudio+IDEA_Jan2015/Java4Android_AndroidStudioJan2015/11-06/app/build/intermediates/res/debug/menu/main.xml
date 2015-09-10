@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>
+<!-- From: file:/C:/book_Java4Android/Java4Android_AndroidStudio+IDEA_Jan2015/Java4Android_AndroidStudioJan2015/11-06/app/src/main/res/menu/main.xml -->

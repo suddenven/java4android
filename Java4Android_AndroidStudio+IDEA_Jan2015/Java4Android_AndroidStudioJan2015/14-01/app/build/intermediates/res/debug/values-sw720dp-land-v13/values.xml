@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/book_Java4Android/Java4Android_AndroidStudio+IDEA_Jan2015/Java4Android_AndroidStudioJan2015/14-01/app/src/main/res/values-sw720dp-land/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">128dp</dimen>
+</resources>
